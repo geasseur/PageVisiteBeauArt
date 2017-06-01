@@ -139,31 +139,31 @@
     font-family: pba;
   }
 
-  .typeVisite1{
-    background-image:url(img/imgVisite/mobile/visiteIndividuel.jpg)!important;
+  #typeVisite1{
+    background-image:url(img/imgVisite/mobile/visiteIndividuel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
 
-  .typeVisite2{
+  #typeVisite2{
     background-image: url(img/imgVisite/mobile/visiteGroupe.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
 
-  .typeVisite3{
+  #typeVisite3{
     background-image: url(img/imgVisite/mobile/visiteFamille.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
 
-  .typeVisite4{
+  #typeVisite4{
     background-image: url(img/imgVisite/mobile/visiteEtudiant.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
 
-  .typeVisite5{
+  #typeVisite5{
     background-image: url(img/imgVisite/mobile/visiteEnseignant.jpg);
     background-repeat: no-repeat;
     background-size: cover;
